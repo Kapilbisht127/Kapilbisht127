@@ -16,8 +16,7 @@ Email Me 👉 ✉️ **bkapil978@gmail.com** For Collaboration/Project or Anythi
 ![](https://github-profile-trophy.vercel.app/?username=Kapilbisht127&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kapil Singh Bisht) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kapil Singh Bisht) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KapilSinghBisht) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KapilSinghBisht) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
